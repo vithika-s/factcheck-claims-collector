@@ -1,0 +1,8 @@
+# collected data and API keys are never committed
+*_Output/
+*.csv
+.Renviron
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
